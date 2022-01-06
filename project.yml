@@ -1,8 +1,0 @@
-packages:
-  - name: default
-    actions:
-      - name: hello
-        limits:
-          timeout: 60
-          memory: 10
-          logs: 100
