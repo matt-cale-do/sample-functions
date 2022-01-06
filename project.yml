@@ -3,6 +3,6 @@ packages:
     actions:
       - name: hello
         limits:
-          timeout: 60
+          timeout: 250
           memory: 10
           logs: 100
