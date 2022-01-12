@@ -4,3 +4,5 @@ packages:
       - name: "hello"
         environment:
           USER: ${HELLO_USER}
+        parameters:
+          extra: ${TEST_ENV}
