@@ -7,6 +7,6 @@ packages:
         parameters:
           PARAM_1: ${ENV_VAR_2}
         limits:
-          timeout: 60
+          timeout: 100
           memory: 10
           logs: 100
