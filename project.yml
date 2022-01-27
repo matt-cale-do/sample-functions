@@ -8,5 +8,5 @@ packages:
           PARAM_1: ${ENV_VAR_2}
         limits:
           timeout: 100
-          memory: 50
+          memory: 150
           logs: 100
